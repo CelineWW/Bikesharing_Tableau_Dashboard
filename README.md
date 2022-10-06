@@ -1,4 +1,6 @@
-# bikesharing
+# Bikesharing Dashboard and Story 
+**:small_blue_diamond:Tableau:small_blue_diamond:**
+
 ## Overview
 Use the experience of New York Citibike as a reference to discover how do the results apply to a new bike-sharing programe in another city -- Des Monies.
 
