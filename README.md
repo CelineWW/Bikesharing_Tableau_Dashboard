@@ -1,4 +1,4 @@
-# Bikesharing Dashboard and Story 
+# Bikesharing Dashboard and Stories 
 **:small_blue_diamond:Tableau:small_blue_diamond:**
 
 ## Overview
