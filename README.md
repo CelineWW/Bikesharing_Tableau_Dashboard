@@ -5,7 +5,7 @@
 Use the experience of New York Citibike as a reference to discover how do the results apply to a new bike-sharing programe in another city -- Des Monies.
 
 1. Download and import data(New York city Citi bike trip data -201908) into Tableau.
-2. Change data type of Tripduration to datatime for further analysis.
+2. Change data type of Tripduration to datetime for further analysis.
 3. Create visualizations to make analyses via dragging dimesnsions and measures to `Columns` and `Rows`.
 4. To opotimize the visualization, some data were dragged into `Marks`, including `Color`, `Size`, `Label`, etc.
 5. Create Dashboard and Story by dragging worksheets to `Dashboard` and `Story` pages, and make appropriate arrangement.
