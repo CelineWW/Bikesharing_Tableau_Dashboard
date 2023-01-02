@@ -13,7 +13,7 @@ Use the experience of New York Citibike as a reference to discover how do the re
 
 ## Result
  
- 1. The data type of Tripduration was changed to datatime.
+ 1. The data type of Tripduration was changed to datetime.
     
    ![201908-citibike-tripdata-updated](https://user-images.githubusercontent.com/105877888/186985834-24140f1f-1fdb-455d-90b9-9f922973f40c.png)
    
